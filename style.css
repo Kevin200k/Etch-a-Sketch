@@ -4,13 +4,5 @@
     border: .024px solid black;
 }
 div{
-
-    height: 1rem;
-    width: 1rem;
-    background-color: black;
-    
-    
-}
-div:hover{
     background-color: yellow;
 }
